@@ -1,5 +1,5 @@
-#Partner 1: Lauren
-#Partner 2: Sophie
+#Partner 1: Lauren Shareshian
+#Partner 2: Sophie Chen
 #################
 
 def getNRandom(n):
